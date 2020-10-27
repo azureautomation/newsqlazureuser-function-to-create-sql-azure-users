@@ -1,0 +1,20 @@
+{
+    "Author": "Rob Sewell",
+    "ContentSize": 2152,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/newsqlazureuser-function-to-create-sql-azure-users/master/New-SQLAzureUser.ps1",
+    "DownloadCount": 1032,
+    "Id": "New-SQlAzureUser-function-b419b4c8",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 316,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function requires a credential input of a user who has permissions to create users (loginmanager role member) and will create a user for the database on the server enteredIt can be built into any automation scripts for the creation of SQL Azure databases and usersIt will",
+    "Title": "New-SQlAzureUser function to create SQL Azure Users",
+    "UpdatedDate": "2015-1-7T00:00:00",
+    "Url": "https://github.com/azureautomation/newsqlazureuser-function-to-create-sql-azure-users",
+    "UserTags": "Microsoft Azure, SQL Azure, User Accounts"
+}
